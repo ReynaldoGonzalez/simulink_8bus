@@ -12,4 +12,4 @@ Load values and lengths are matching cyme 8-bus network v17.
 
 <img src="cyme_load_flow.png" alt="CYME Load Flow" width="50%"/>
 
-<img src="simulink_load_flow.png" alt="Simulink Load Flow" width="50%"/>
+<img src="simulink_load_flow.png" alt="Simulink Load Flow" width="40%"/>
