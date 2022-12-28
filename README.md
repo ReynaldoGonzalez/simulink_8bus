@@ -9,6 +9,5 @@ The simulink lines are using the pi model which requires positive/negative seque
 In cyme, the lines are defined by Z matrix impedance.
 
 Load values and lengths are matching cyme 8-bus network v17.
-<div>
+
 <img src="cyme_load_flow.png" alt="CYME Load Flow" width="50%"/>
-</div>
